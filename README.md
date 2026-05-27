@@ -15,6 +15,16 @@ noSQL /  SQLite
 # Home Main Web Layout
 
 
+
+<img width="1252" height="839" alt="image" src="https://github.com/user-attachments/assets/a0f58cea-9e64-44db-98a4-4dbafaa2836d" />
+
+<img width="1252" height="597" alt="image" src="https://github.com/user-attachments/assets/ea391ee2-78e9-4326-b3e8-95c4e6e18a1e" />
+
+
+
+<img width="1253" height="605" alt="image" src="https://github.com/user-attachments/assets/1e694648-c943-4912-8283-ae860f822776" />
+
+
 SÍÍÍ 😹🔥
 AHORA ya estoy entrando al punto donde deja de verse “HTML suelto” y empieza a verse:
 
