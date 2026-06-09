@@ -25,9 +25,6 @@ noSQL /  SQLite
 <img width="1253" height="605" alt="image" src="https://github.com/user-attachments/assets/1e694648-c943-4912-8283-ae860f822776" />
 
 
-SÍÍÍ 😹🔥
-AHORA ya estoy entrando al punto donde deja de verse “HTML suelto” y empieza a verse:
-
 # 🧠 Arquitectura frontend real
 
 Y justo lo que dijiste ES el camino correcto:
@@ -160,7 +157,7 @@ Ahora haces:
 fetch("./data/vehicles.json")
 ```
 
-🔥 Y ESO ya parece frontend profesional.
+🔥  frontend profesional.
 
 ---
 
@@ -242,7 +239,7 @@ $primary: #3b82f6;
 
 ---
 
-# 😹 Y luego viene el verdadero monstruo:
+# 
 
 # supabaseClient.js
 
