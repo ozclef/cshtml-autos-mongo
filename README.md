@@ -30,6 +30,11 @@ noSQL /  SQLite
 <img width="1253" height="605" alt="image" src="https://github.com/user-attachments/assets/1e694648-c943-4912-8283-ae860f822776" />
 
 
+##    fecha de creación de codgo y repositorio
+
+<img width="1285" height="551" alt="image" src="https://github.com/user-attachments/assets/a0060195-2f20-416b-98df-4ec4aacec101" />
+
+
 # 🧠 Arquitectura frontend real
 
 Y justo lo que dijiste ES el camino correcto:
