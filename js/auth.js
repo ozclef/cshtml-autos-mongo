@@ -11,8 +11,12 @@ if(usuario=="admin" && clave=="1234"){
 
 export function login(usuario, clave){
 
-    if(usuario==="admin" && clave==="1234"){
+//////   await fetch("/api/login")
+await fetch("/api/login")
+    ///CAMBIA POR ESTO 
+   ////   if(usuario==="admin" && clave==="1234"){
 
+       
         localStorage.setItem("login","true");
 
         return true;
@@ -32,5 +36,17 @@ export function logout(){
 export function isLogged(){
 
     return localStorage.getItem("login")==="true";
+
+}
+
+
+/////  FORM  el form
+if(login(usuario,clave)){
+
+    mostrarCrud();
+
+}else{
+
+    mostrarError();
 
 }
