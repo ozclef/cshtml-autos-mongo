@@ -1,6 +1,6 @@
 [
   {
-    "id": 0001,
+    "id": 1,
     "brand": "Toyota",
     "model": "Corolla",
     "type": "auto",
@@ -8,7 +8,7 @@
     "image": "assets/img/corolla.jpg"
   },
   {
-    "id": 0002,
+    "id": 2,
     "brand": "Yamaha",
     "model": "FZ",
     "type": "moto",
@@ -16,7 +16,7 @@
     "image": "assets/img/fz.jpg"
   },
     {
-    "id": 0003,
+    "id": 3,
     "brand": "",
     "model": "",
     "type": "",
@@ -32,7 +32,7 @@
     "image": "/img/corolla.jpg"
   },
 {
-    "id": 0004,
+    "id": 4,
     "brand": "",
     "model": "",
     "type": "",
@@ -40,13 +40,13 @@
     "image": "/img/corolla.jpg"
   },
 {
-    "id": 0005,
+    "id": 5,
     "brand": "",
     "model": "",
     "type": "",
     "price": 0,
     "image": "/img/corolla.jpg"
-  },
+  }
 
 
 ]
