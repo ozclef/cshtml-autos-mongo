@@ -24,6 +24,26 @@ CRUDS
 CARDS
 noSQL /  SQLite
 
+```
+
+# CSHTML-noSQL
+aplicacion web con conexion en mongo
+
+
+App web C#  CSHTML 
+
+HTML 
+
+Mongo /  Azure 
+
+CRUDS 
+
+CARDS
+
+noSQL /  SQLite
+
+```
+
 
 ----
 
@@ -318,9 +338,7 @@ a:
 
 ---
 
-# 🚨 Y ojo
-
-Tu idea de:
+# 🚨 ---  idea de:
 
 * JSON primero
 * luego Supabase
@@ -374,6 +392,7 @@ Responsive multi-panel web layout built with HTML + TailwindCSS.
 
 ## 📱 Features
 
+```
 - Responsive desktop/mobile architecture
 - 3-column desktop layout
 - Horizontal swipe navigation for mobile
@@ -382,6 +401,8 @@ Responsive multi-panel web layout built with HTML + TailwindCSS.
 - Scroll snapping for touch devices
 - Mobile-first adaptive behavior
 - Lightweight frontend structure
+```
+
 
 ---
 
@@ -481,21 +502,5 @@ Future improvements may include:
 
 Open for educational and personal experimentation.
 
-
-# CSHTML-noSQL
-aplicacion web con conexion en mongo
-
-
-App web C#  CSHTML 
-
-HTML 
-
-Mongo /  Azure 
-
-CRUDS 
-
-CARDS
-
-noSQL /  SQLite
 
 
