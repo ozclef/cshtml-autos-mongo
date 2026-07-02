@@ -61,6 +61,9 @@
     document.getElementById('loginForm').onsubmit = function(e){
       e.preventDefault();
       // Aquí iría la validación contra el backend.
+
+
+        
       // Por ahora, cualquier usuario y clave permite el acceso.
       usuarioAutenticado = true;
       document.getElementById('loginError').innerText = "";
