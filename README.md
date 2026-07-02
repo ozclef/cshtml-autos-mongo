@@ -44,6 +44,19 @@ noSQL /  SQLite
 
 
 
+
+----
+
+
+
+-----
+
+
+#### cuenta robada 
+
+<img width="601" height="401" alt="image" src="https://github.com/user-attachments/assets/c9666968-872e-4363-a86d-df6988e4520b" />
+
+
 ----
 
 # 🧠 Arquitectura frontend real
