@@ -1,10 +1,22 @@
-aplicacion web con conexion en mongo
 
 # CSHTML-noSQL
 
+version 17-agosto-2025 -
+
+https://github.com/ozclef/cshtml-autos-mongo/blob/7599c43fa695c045f78f7dbe4c3ecbb67163f80c/autos.cshtml
+
+##### actividad enseñada para el INSTITUTO :
+
+
+------
+
+
+________
+
+
+aplicacion web con conexion en mongo
 
 App web C#  CSHTML 
-
 
 HTML 
 Mongo /  Azure 
