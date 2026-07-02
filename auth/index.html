@@ -1,0 +1,102 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Venta de Autos - market online</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet"  href="/css/style.css">
+  <link rel="stylesheet"  href="/css/sidebar.css">
+  
+</head>
+<body style="body: before", "body">
+  <!-- Barra de navegación -->
+  <div class="navbar">
+    <div>
+      <strong>Venta de Autos</strong>
+    </div>
+    <div>
+      <button class="menu-btn" id="todosBtn">Todos</button>
+      <button class="menu-btn" id="motosBtn">Motos</button>
+      <button class="menu-btn" id="autosBtn">Autos</button>
+      <button class="login-btn" id="loginMenuBtn">Login</button>
+      <button class="logout-btn hidden" id="logoutMenuBtn">Salir</button>
+    </div>
+  </div>
+  
+ <!-- 1. HTML
+Agrega este bloque justo después del <body>:-->
+
+<div id="sidebar" class="sidebar hidden">
+  <button onclick="closeSidebar()" class="close-btn">&times;</button>
+  <a href="#" onclick="setTipo('todos')">Todos</a>
+  <a href="#" onclick="setTipo('autos')">Autos</a>
+  <a href="#" onclick="setTipo('motos')">Motos</a>
+  <hr>
+  <a href="#" onclick="mostrarLogin()">Login</a>
+</div>
+<button class="open-sidebar-btn" onclick="openSidebar()">☰</button>
+
+
+  
+  <!-- Contenido principal -->
+  <div class="container" id="mainContent">
+    <!-- Aquí se insertan las cards de vehículos -->
+    <h2>Bienvenido a la tienda de Vehículos</h2>
+    <p>Compra y vende autos y motos fácilmente.</p>
+    <img src="https://images.unsplash.com/photo-1511918984145-48de785d4c4e?fit=crop&w=600&q=80" alt="autos" style="width:100%; border-radius:10px;">
+  </div>
+  
+  
+  <!-- Vista de login -->
+   <button class="menu-btn" id="todosBtn">Todos</button>
+      <button class="menu-btn" id="motosBtn">Motos</button>
+      <button class="menu-btn" id="autosBtn">Autos</button>
+  <div class="container hidden" id="loginPage">
+    <h2>Iniciar sesión PANEL ADMIN
+    <form class="login-form" id="loginForm">
+      <input type="text" id="usuario" placeholder="Usuario" required>
+      <input type="password" id="clave" placeholder="Clave" required>
+      <button type="submit" class="login-btn">Ingresar</button>
+    </form>
+    <div id="loginError" style="color:#dc2626; margin-top:10px;"></div>
+  </div>
+  <!-- Panel CRUD (solo para admin) -->
+  <div class="container hidden" id="crudPage">
+    <h2>Panel de Administración</h2>
+    <div id="crudList">
+      <!-- Aquí se listan los autos/motos -->
+    </div>
+    <button class="crud-btn" id="addItemBtn">Agregar Nuevo Vehículo</button>
+    <div id="addForm" class="hidden">
+      <input type="text" id="itemNombre" placeholder="Marca y modelo">
+      <input type="text" id="itemTipo" placeholder="Tipo: auto/moto">
+      <input type="text" id="itemPrecio" placeholder="Precio">
+      <input type="text" id="itemImagen" placeholder="URL de imagen (opcional)">
+      <button class="crud-btn" id="saveItemBtn">Guardar</button>
+      <button class="crud-btn" id="cancelItemBtn" style="background:#64748b;">Cancelar</button>
+    </div>
+  </div>
+    
+  <!-- Footer -->
+  <footer>
+  <div>
+    <div>
+      © 2025 Venta de Autos. Todos los derechos reservados.
+    </div>
+    <div>
+      <a href="#" style="color:#fff;">Contacto</a>
+    </div>
+  </div>
+  </footer>
+  <!-- Script principal -->
+  <script src="/js/app.js">  </script>
+  <script src="/js/sidebar.js">  </script>
+</body>
+</html>
