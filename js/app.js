@@ -61,6 +61,11 @@
     document.getElementById('loginForm').onsubmit = function(e){
       e.preventDefault();
       // Aquí iría la validación contra el backend.
+
+if(usuario=="admin" && clave=="1234"){
+   mostrarCrud();
+}
+        
       // Por ahora, cualquier usuario y clave permite el acceso.
       usuarioAutenticado = true;
       document.getElementById('loginError').innerText = "";
