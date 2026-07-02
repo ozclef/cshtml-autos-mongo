@@ -35,6 +35,17 @@ noSQL /  SQLite
 <img width="1285" height="551" alt="image" src="https://github.com/user-attachments/assets/a0060195-2f20-416b-98df-4ec4aacec101" />
 
 
+
+----
+
+2025:
+
+<img width="471" height="2020" alt="image" src="https://github.com/user-attachments/assets/14af6e6c-62e5-490c-a5f3-6bb91d77903c" />
+
+
+
+----
+
 # 🧠 Arquitectura frontend real
 
 Y justo lo que dijiste ES el camino correcto:
