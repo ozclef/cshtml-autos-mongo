@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0001,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "auto",
+    "price": 50000,
+    "image": "assets/img/corolla.jpg"
+  },
+  {
+    "id": 0002,
+    "brand": "Yamaha",
+    "model": "FZ",
+    "type": "moto",
+    "price": 93000,
+    "image": "assets/img/fz.jpg"
+  },
+    {
+    "id": 0003,
+    "brand": "",
+    "model": "",
+    "type": "",
+    "price": 0,
+    "image": "/img/corolla.jpg"
+  },
+  {
+    "id": 0003,
+    "brand": "",
+    "model": "",
+    "type": "",
+    "price": 0,
+    "image": "/img/corolla.jpg"
+  },
+{
+    "id": 0004,
+    "brand": "",
+    "model": "",
+    "type": "",
+    "price": 0,
+    "image": "/img/corolla.jpg"
+  },
+{
+    "id": 0005,
+    "brand": "",
+    "model": "",
+    "type": "",
+    "price": 0,
+    "image": "/img/corolla.jpg"
+  },
+
+
+]
