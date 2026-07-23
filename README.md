@@ -13,10 +13,18 @@ https://github.com/ozclef/cshtml-autos-mongo/blob/7599c43fa695c045f78f7dbe4c3ecb
 
 ________
 
-
+## TECNOLOGÍAS USADAS 
+Landing + Login + CRUD.
+Panel administrador.
+Cards reutilizables.
+JSON como fuente de datos.
+Después LocalStorage.
+Más adelante MongoDB/Supabase.
+Separar CSS.
+Componentizar.
 aplicacion web con conexion en mongo
 
-App web C#  CSHTML 
+#### App web C#  CSHTML 
 
 HTML 
 Mongo /  Azure 
@@ -44,6 +52,7 @@ noSQL /  SQLite
 
 ```
 
+_______
 
 ----
 
