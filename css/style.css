@@ -124,7 +124,7 @@ main {
 .card strong{
     font-size:1.2rem;
     font-weight:700;
-    color:white;
+    color: rgb(60 60 60);
 }
 .card span{
 
@@ -143,15 +143,6 @@ main {
     font-weight:bold;
 }
 
-/*<span class="precio">$72,950</span>*/
-.precio{
-
-    color:#39ff88;
-
-    font-size:1.1rem;
-
-    font-weight:bold;
-}
 
 /*
 
@@ -165,7 +156,6 @@ main {
       margin-right: 8px;
       font-size: 0.95em;
     }
-*/
 
     .hidden { display:none; }
     .login-form input {
@@ -175,6 +165,7 @@ main {
       border-radius: 4px;
       font-size: 1em;
     }
+*/
 
 
 
