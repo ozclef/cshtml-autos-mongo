@@ -45,7 +45,7 @@ main {width:100%;
   ) 1;} 
 
     
-    aside {      background: var(--card);      padding: 12px;  
+    aside {      background: #010101;      padding: 12px;  
 		   border-radius: 8px;   
 		   box-shadow: 2px 3px 12px rgba(255,255,255,0.05);
 		   
