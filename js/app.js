@@ -10,7 +10,7 @@
       {id:5, nombre:"Kawasaki Ninja", tipo:"moto", precio:"$50,000", imagen:"img/Kawasaki-Ninja.jpg"},
       {id:6, nombre:"Harley Davidson", tipo:"moto", precio:"$100,500", imagen:"img/Harley-Davidson.jpg"},
       {id:7, nombre:"Yamaha FZ", tipo:"moto", precio:"$93,200", imagen:"img/Yamaha FZ v3.webp"},
-      {id:8, nombre:"Suzuki GN", tipo:"moto", precio:"$72,950", imagen:"img/"}
+      {id:8, nombre:"Suzuki GN", tipo:"moto", precio:"$72,950", imagen:"img/Suzuki-GN.webp"}
     ];
     let nextId = items.length + 1;
     let editId = null;
