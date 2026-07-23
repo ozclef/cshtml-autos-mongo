@@ -1,0 +1,57 @@
+[
+      {
+        id:1,
+        nombre:"Toyota Corolla",
+        tipo:"auto",
+        precio:"$50,000",
+        imagen:"/img/2023_Corolla_Sedan_001H.jpg"
+      },
+      {
+        id:2, 
+        nombre:"Honda Civic",
+        tipo:"auto", 
+        precio:"$42,500", 
+        imagen:"/img/honda-civic-2026.jpg"
+      },
+      {id:3,
+        nombre:"Volkswagen Golf",
+        tipo:"auto", 
+        precio:"$93,200", 
+        imagen:"/img/VolkswagenGolf.jpg"
+      },
+      {
+        id:4,
+        nombre:"BMW Serie 3", 
+        tipo:"auto", 
+        precio:"$72,950", 
+        imagen:"/img/BMWSerie3.jpg"
+      },
+      {
+        id:5, 
+        nombre:"Kawasaki Ninja",
+        tipo:"moto", 
+        precio:"$50,000", 
+        imagen:"/img/Kawasaki-Ninja.jpg"
+      },
+      {
+        id:6,
+        nombre:"Harley Davidson",
+        tipo:"moto", 
+        precio:"$100,500", 
+        imagen:"/img/Harley-Davidson.jpg"
+      },
+      {
+        id:7, 
+        nombre:"Yamaha FZ",
+        tipo:"moto",
+        precio:"$93,200",
+        imagen:"/img/Yamaha FZ v3.webp"
+      },
+      {
+        id:8, 
+        nombre:"Suzuki GN", 
+        tipo:"moto", 
+        precio:"$72,950", 
+        imagen:"/img/Yamaha FZ v3.webp"
+      }
+    ]
