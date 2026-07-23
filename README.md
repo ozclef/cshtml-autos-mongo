@@ -51,11 +51,7 @@ noSQL /  SQLite
 
 # Home Main Web Layout
 
-
-
-<img width="1252" height="839" alt="image" src="https://github.com/user-attachments/assets/a0f58cea-9e64-44db-98a4-4dbafaa2836d" />
-
-<img width="1252" height="597" alt="image" src="https://github.com/user-attachments/assets/ea391ee2-78e9-4326-b3e8-95c4e6e18a1e" />
+<img width="888" height="1905" alt="image" src="https://github.com/user-attachments/assets/ef91ff93-52b8-49b9-a6b4-51efe78dfb2b" />
 
 
 
