@@ -34,7 +34,8 @@ body: before {
     
         .layout {      display: grid;      grid-template-columns: 220px 1fr 220px;
 				 gap: 18px;      padding: 50px 24px 24px;    }
-main {width:100%;
+main {
+	width:100%;
 	 box-shadow: 2px 3px 12px rgba(255,255,255,0.05);
   border-bottom: 2px solid transparent;
   border-image: linear-gradient(
@@ -92,7 +93,7 @@ main {width:100%;
 .card{
     position:relative;    overflow:hidden;    display:flex;
     flex-direction:column;
-	background:FAFAFA;
+	background: #FAFAFA;
     gap:12px;
     padding:16px;  
     backdrop-filter:blur(14px);    border:1px solid rgba(255,255,255,.08);
@@ -142,7 +143,7 @@ main {width:100%;
     font-weight:bold;
 }
 
-<span class="precio">$72,950</span>
+/*<span class="precio">$72,950</span>*/
 .precio{
 
     color:#39ff88;
