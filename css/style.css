@@ -128,7 +128,11 @@ main {
 }
 .card span{
 
-    color:#bfc7d3;
+    color:#bfc7d3; color:#39ff88;
+
+    font-size:1.1rem;
+
+    font-weight:bold;
 
     font-size:.92rem;
 }
