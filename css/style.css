@@ -32,6 +32,31 @@ body: before {
     }
 
     
+        .layout {      display: grid;      grid-template-columns: 220px 1fr 220px;
+				 gap: 18px;      padding: 50px 24px 24px;    }
+main {width:100%;
+	 box-shadow: 2px 3px 12px rgba(255,255,255,0.05);
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(
+    90deg,
+    var(--accent1),
+    var(--accent2),
+    var(--accent3)
+  ) 1;} 
+
+    
+    aside {      background: var(--card);      padding: 12px;  
+		   border-radius: 8px;   
+		   box-shadow: 2px 3px 12px rgba(255,255,255,0.05);
+		   
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(
+    90deg,
+    var(--accent1),
+    var(--accent2),
+    var(--accent3)
+  ) 1;  }
+
     .navbar { position:fixed; top:0; left:0; right:0; z-index:10; }
     .footer { position:fixed; bottom:0; left:0; right:0; font-size:0.95em; }
     .container {
