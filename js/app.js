@@ -3,14 +3,14 @@
     let usuarioAutenticado = false;
     let tipoActual = "todos";
     let items = [
-      {id:1, nombre:"Toyota Corolla", tipo:"auto", precio:"$50,000", imagen:"https://images.unsplash.com/photo-1511918984145-48de785d4c4e?fit=crop&w=400&q=80"},
-      {id:2, nombre:"Honda Civic", tipo:"auto", precio:"$42,500", imagen:"https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?fit=crop&w=400&q=80"},
-      {id:3, nombre:"Volkswagen Golf", tipo:"auto", precio:"$93,200", imagen:"https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?fit=crop&w=400&q=80"},
-      {id:4, nombre:"BMW Serie 3", tipo:"auto", precio:"$72,950", imagen:"https://images.unsplash.com/photo-1511918984145-48de785d4c4e?fit=crop&w=400&q=80"},
-      {id:5, nombre:"Kawasaki Ninja", tipo:"moto", precio:"$50,000", imagen:"https://images.unsplash.com/photo-1519864600264-2b6f1babe3a8?fit=crop&w=400&q=80"},
-      {id:6, nombre:"Harley Davidson", tipo:"moto", precio:"$100,500", imagen:"https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?fit=crop&w=400&q=80"},
-      {id:7, nombre:"Yamaha FZ", tipo:"moto", precio:"$93,200", imagen:"https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?fit=crop&w=400&q=80"},
-      {id:8, nombre:"Suzuki GN", tipo:"moto", precio:"$72,950", imagen:"https://images.unsplash.com/photo-1519864600264-2b6f1babe3a8?fit=crop&w=400&q=80"}
+      {id:1, nombre:"Toyota Corolla", tipo:"auto", precio:"$50,000", imagen:"/img/2023_Corolla_Sedan_001H.jpg"},
+      {id:2, nombre:"Honda Civic", tipo:"auto", precio:"$42,500", imagen:"/img/honda-civic-2026.jpg"},
+      {id:3, nombre:"Volkswagen Golf", tipo:"auto", precio:"$93,200", imagen:"/img/VolkswagenGolf.jpg"},
+      {id:4, nombre:"BMW Serie 3", tipo:"auto", precio:"$72,950", imagen:"/img/BMWSerie3.jpg"},
+      {id:5, nombre:"Kawasaki Ninja", tipo:"moto", precio:"$50,000", imagen:"/img/Kawasaki-Ninja.jpg"},
+      {id:6, nombre:"Harley Davidson", tipo:"moto", precio:"$100,500", imagen:"/img/Harley-Davidson.jpg"},
+      {id:7, nombre:"Yamaha FZ", tipo:"moto", precio:"$93,200", imagen:"/img/Yamaha FZ v3.webp"},
+      {id:8, nombre:"Suzuki GN", tipo:"moto", precio:"$72,950", imagen:"/img/Yamaha FZ v3.webp"}
     ];
     let nextId = items.length + 1;
     let editId = null;
