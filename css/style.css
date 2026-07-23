@@ -78,7 +78,7 @@ main {width:100%;
 
 
     .menu-btn.active { background: #16a34a;}
-    .card {
+   /* .card {
       background: #fff;
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(30,41,59,0.09);
@@ -88,12 +88,80 @@ main {width:100%;
       flex-direction: column;
       gap: 8px;
     }
+*/
+.card{
+    position:relative;    overflow:hidden;    display:flex;
+    flex-direction:column;
+    gap:12px;
+    padding:16px;    background:rgba(18,22,33,.72);
+    backdrop-filter:blur(14px);    border:1px solid rgba(255,255,255,.08);
+    border-radius:18px;    transition:.35s;
+    box-shadow:        0 8px 24px rgba(0,0,0,.25);
+}
+.card:hover{
+
+    transform:translateY(-8px);
+
+    border-color:rgba(255,255,255,.2);
+
+    box-shadow:
+        0 0 12px rgba(255,59,255,.18),
+        0 0 22px rgba(55,227,255,.14),
+        0 18px 40px rgba(0,0,0,.45);
+}
     .card img {
       width: 100%;
       border-radius: 8px;
       margin-bottom: 8px;
     }
-    .crud-btn {
+.card img{
+
+    width:100%;
+    height:210px;
+
+    object-fit:cover;
+
+    border-radius:14px;
+
+    transition:.45s;
+}
+ .card:hover img{    transform:scale(1.05);
+}
+.card strong{
+    font-size:1.2rem;
+    font-weight:700;
+    color:white;
+}
+.card span{
+
+    color:#bfc7d3;
+
+    font-size:.92rem;
+}
+
+/*<span class="precio">$72,950</span>*/
+.precio{
+
+    color:#39ff88;
+
+    font-size:1.1rem;
+
+    font-weight:bold;
+}
+
+<span class="precio">$72,950</span>
+.precio{
+
+    color:#39ff88;
+
+    font-size:1.1rem;
+
+    font-weight:bold;
+}
+
+/*
+
+.crud-btn {
       background: #0ea5e9;
       color: #fff;
       border: none;
@@ -103,6 +171,8 @@ main {width:100%;
       margin-right: 8px;
       font-size: 0.95em;
     }
+*/
+
     .hidden { display:none; }
     .login-form input {
       padding: 8px;
